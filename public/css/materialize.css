@@ -4473,14 +4473,14 @@ nav .input-field label.active i {
 
 @media only screen and (min-width: 601px) {
   nav.nav-extended .nav-wrapper {
-    min-height: 64px;
+    min-height: 130px;
   }
   nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
-    height: 64px;
-    line-height: 64px;
+    height: 130px;
+    line-height: 130px;
   }
   .navbar-fixed {
-    height: 64px;
+    height: 130px;
   }
 }
 
